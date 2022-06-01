@@ -1,7 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
+![](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+![](https://komarev.com/ghpvc/?username=A-PolarBear&style=for-the-badge)
 
-![Profile views](https://gpvc.arturio.dev/A-PolarBear)
+I'm A-PolarBear. Welcome to my code world.
+- 🌱 I’m currently learning NLP
+- 👨‍💻 All of my projects are available at https://github.com/A-PolarBear
+- 📫 How to reach me: 1589966460@qq.com
 
 I code with : 👇
 
